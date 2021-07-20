@@ -1,0 +1,11 @@
+{
+ "name": "HUMANITY",
+ "website": "https://www.humanity.com",
+ "description": "HMY CHAIN.",
+ "explorer": "https://hecoinfo.com/token/0x539a40CC98fc6c1964De3dfD574d87608eba7799",
+ "type": "HRC20",
+ "symbol": "HMY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x539a40CC98fc6c1964De3dfD574d87608eba7799"
+}
